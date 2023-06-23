@@ -1,0 +1,14 @@
+I_Id: Unique product ID.
+I_W: Weight of the product.
+I_Fat_C: Whether the product is low fat or not.
+I_Vis :(Item visibility) The percent of the total display area of all items in a store allocated to the particular product
+I_MRP_JD: Maximum Retail Price of the product in Jordanian dinar.
+I_category: The category to which the product belongs
+I_MRP_US: Maximum Retail Price of the product in dollars.
+O_Id: Unique store ID
+O_Establ_Y: The year in which the store was established
+O_Size: ground area covered representing the size of the store
+I_Recalled: if the item was recalled or not. 
+O_Loc_T: The type of city in which the store is located
+O_T: The store from which the product was bought.
+I_O_Sales:  Sales of the product in the particular store in dollars.
